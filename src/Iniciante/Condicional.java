@@ -1,4 +1,4 @@
-package Iniciante.Condicionais;
+package Iniciante;
 
 public class Condicional {
 

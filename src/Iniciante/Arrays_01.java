@@ -1,4 +1,4 @@
-package Iniciante.Condicionais;
+package Iniciante;
 
 import java.util.ArrayList;
 import java.util.List;

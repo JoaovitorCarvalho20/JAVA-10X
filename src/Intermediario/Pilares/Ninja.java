@@ -1,4 +1,4 @@
-package Intermediario.OOP;
+package Intermediario.Pilares;
 
 public class Ninja {
     public String nome;

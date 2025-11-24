@@ -1,4 +1,4 @@
-package Iniciante.Condicionais;
+package Iniciante;
 
 public class Memoria {
     public static void main(String[] args) {

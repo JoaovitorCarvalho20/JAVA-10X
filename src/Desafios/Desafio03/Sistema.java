@@ -1,10 +1,5 @@
 package Desafios.Desafio03;
 
-import Intermediario.OOP.Ninja;
-import Intermediario.OOP.Uchiha;
-
-import java.util.Scanner;
-
 public class Sistema {
     public static void main(String[] args) {
         Ninjas ninja1 = new Ninjas();

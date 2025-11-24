@@ -1,4 +1,4 @@
-package Intermediario.OOP;
+package Intermediario.Pilares;
 
 public class Uzumaki extends Ninja{
     //Metodos de classe

@@ -1,9 +1,10 @@
-package Intermediario.OOP;
+package Intermediario.Pilares;
 
-public class Hyuga extends Ninja{
+public class Haruno extends Ninja{
+
     //Metodos de classe
-    public void ByakuganAtivado(){
-        System.out.println("Byakugan Ativado");
+    public void SocoForte(){
+        System.out.println("Soco forte ativado");
     }
 
     @Override // Polimorfismo
