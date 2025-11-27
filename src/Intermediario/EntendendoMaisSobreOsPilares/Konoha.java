@@ -22,6 +22,13 @@ public class Konoha {
         kakaschi.inteligenciaDeBatalha();
         kakaschi.inteligenciaDeBatalha(151);
 
+        System.out.println("================================= ");
+        // Obj 3
+        Anbu ninjaDasSombras = new Anbu();
+        ninjaDasSombras.nome = "Danzo";
+        System.out.println(ninjaDasSombras.nome);
+        ninjaDasSombras.atirarEstrelasNinja();
+        ninjaDasSombras.souAnbu();
 
 
     }
