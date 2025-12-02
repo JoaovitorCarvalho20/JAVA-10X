@@ -1,4 +1,4 @@
-package Intermediario.Estruturas;
+package Intermediario.Estruturas.Enums;
 
 public enum RankDeMissoes {
     A("Dificil", 7),

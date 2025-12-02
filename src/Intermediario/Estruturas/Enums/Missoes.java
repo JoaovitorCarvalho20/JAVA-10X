@@ -1,4 +1,4 @@
-package Intermediario.Estruturas;
+package Intermediario.Estruturas.Enums;
 
 public class Missoes {
 
