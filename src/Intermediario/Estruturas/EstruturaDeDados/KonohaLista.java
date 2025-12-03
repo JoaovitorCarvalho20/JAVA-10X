@@ -3,7 +3,7 @@ package Intermediario.Estruturas.EstruturaDeDados;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Konoha {
+public class KonohaLista {
     public static void main(String[] args) {
         //TODO : Estudando sobre listas
 
